@@ -1,8 +1,6 @@
-# Data Science Projects
+# AI-Cumulate
 
 ---
 
-- This is a compiled list of different project topics for learning purposes
-- The main purpose of this list is to get hands-on experience on different topics.
-
-| Sr. No. | Project                                                                | Resource link                                                                      
+- AI Cumulate is an interactive AI web app built using streamlit.
+-- The main purpose of this list is to get hands-on experience on different topics.
